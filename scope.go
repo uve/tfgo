@@ -15,7 +15,7 @@ package tfgo
 
 import (
 	"fmt"
-	"github.com/tensorflow/tensorflow/tensorflow/go/op"
+	"github.com/uve/tensorflow/tensorflow/go/op"
 )
 
 var tensorCounter int

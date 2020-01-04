@@ -20,8 +20,8 @@ limitations under the License.
 package tfgo
 
 import (
-	tf "github.com/tensorflow/tensorflow/tensorflow/go"
-	"github.com/tensorflow/tensorflow/tensorflow/go/op"
+	tf "github.com/uve/tensorflow/tensorflow/go"
+	"github.com/uve/tensorflow/tensorflow/go/op"
 )
 
 // Batchify creates a batch of tensors, concatenating them along the first dimension

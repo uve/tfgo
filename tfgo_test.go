@@ -17,7 +17,7 @@ import (
 	tg "github.com/galeone/tfgo"
 	"github.com/galeone/tfgo/preprocessor"
 	"github.com/galeone/tfgo/proto/example"
-	tf "github.com/tensorflow/tensorflow/tensorflow/go"
+	tf "github.com/uve/tensorflow/tensorflow/go"
 	"math"
 	"reflect"
 	"testing"

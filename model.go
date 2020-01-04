@@ -15,7 +15,7 @@ package tfgo
 
 import (
 	"fmt"
-	tf "github.com/tensorflow/tensorflow/tensorflow/go"
+	tf "github.com/uve/tensorflow/tensorflow/go"
 	"io/ioutil"
 )
 
